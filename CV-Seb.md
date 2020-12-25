@@ -33,7 +33,7 @@ Fonctionnalités :
   * Projet : Site d'un commerce de fleurs
 _Plateforme de présentation des compositions florales_
 
-* **Projeteur Dessinateur industriel**
+* **Projeteur Dessinateur industriel**  
 _Bureau d'Etudes Maritimes, Artigues-près-Bordeaux_
 _mars 2000- septembre 2020_
   * _Etudes, dessins, calculs et rédaction de documents pour tous types d'éléments
